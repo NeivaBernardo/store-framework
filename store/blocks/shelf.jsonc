@@ -16,7 +16,7 @@
     }
   },
 
-  
+
   "product-summary.shelf": {
     "children": [
       "stack-layout#prodsum",
@@ -36,7 +36,8 @@
         // "modal-trigger#quickview"
         // "product-summary-image",
         // "product-bookmark",
-        // "product-summary-specification-badges"
+        // "product-summary-specification-badges",
+        // "product-summary-specification"
     ]
   },
 

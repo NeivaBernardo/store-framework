@@ -19,7 +19,7 @@
 
   "product-summary.shelf": {
     "children": [
-      "stack-layout#prodsum",
+      "product-summary-image",
       "product-summary-add-to-list-button",
       "product-summary-name",
       "product-rating-inline",
@@ -28,24 +28,5 @@
       "product-identifier.summary",
       "product-summary-buy-button"
     ]
-  },
-
-  "stack-layout#prodsum": {
-    "children": [
-        "product-summary-image#shelf"
-        // "modal-trigger#quickview"
-        // "product-summary-image",
-        // "product-bookmark",
-        // "product-summary-specification-badges",
-        // "product-summary-specification"
-    ]
-  },
-
-  "product-summary-image#shelf": {
-    "props": {
-        "showBadge": true
-        // "height": 850,
-        // "width": 1000
-    }
   }
 }

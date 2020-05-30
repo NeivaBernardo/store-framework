@@ -1,6 +1,7 @@
 {
   "store.product": {
      "children": [
+       "breadcrumb",
        "flex-layout.row#main"
      ]
    },
@@ -25,17 +26,40 @@
       "verticalAlign" : "middle" ,
       "preventVerticalStretch" : "true"
     },
+
     "children": [
       "product-name",
+      "product-identifier.product",
       "product-price",
+      "flex-layout.row#qty-sku",
+      "shipping-simulator",
       "buy-button"
     ]
   },
+
+  "flex-layout.row#qty-sku": {
+    "children": [
+      "sku-selector",
+      "product-quantity"
+
+    ]
+  },
+
   "product-price": {
     "props": {
       "showSavings": true,
       "showListPrice": true,
       "labelSellingPrice" : true
     }
+  },
+
+  
+  "breadcrumb": {
+    "props": {
+      "showOnMobile": true
+    }
+  },
+  "product-name" : {
+    
   }
 } 

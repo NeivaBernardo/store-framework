@@ -93,7 +93,7 @@
     "rich-text#about-title": {
       "props": {
         "text":
-        "# Sobre a FlatFlat"
+        "# Sobre a FlatFla"
     }
   },
   "rich-text#about-content": {

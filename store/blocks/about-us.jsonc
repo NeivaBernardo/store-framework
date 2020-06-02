@@ -54,7 +54,6 @@
     },
     "tab-content.item#home2": {
       "children": [
-        //"rich-text#home2",
         "iframe"
       ],
       "props": {
@@ -75,12 +74,7 @@
         //"font": "t-heading-3"
       }
     },
-    //"rich-text#home2": {
-      //"props": {
-       // "textPosition": "CENTER",
-        //"font": "t-heading-3"
-     // }
-    //},
+  
     "flex-layout.col#text-about-us": {
       "children": [
         "rich-text#about-title",

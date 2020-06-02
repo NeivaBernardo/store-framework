@@ -31,8 +31,9 @@
     },
     "tab-list.item#home1": {
         "props": {
+          "text": " dfsdfdfdf.",
           "tabId": "majorAppliances",
-          "label": "Major Appliances",
+          "label": "Sobre",
           "defaultActiveTab": true
         }
       },

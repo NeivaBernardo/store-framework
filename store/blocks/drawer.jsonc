@@ -64,12 +64,12 @@
     },
   "vtex.menu@2.x:submenu.accordion#small":{
     "children":[
-        "vtex.menu@2.x:menu#small"
+        "vtex.menu@2.x:menu#smalls"
     ]
   },
   "vtex.menu@2.x:submenu.accordion#electronics":{
     "children":[
-        "vtex.menu@2.x:menu#electronics"
+        "vtex.menu@2.x:menu#electronicss"
     ]
   },
   "vtex.menu@2.x:menu#major":{
@@ -82,7 +82,7 @@
           "orientation": "vertical"
       }
   },
-  "vtex.menu@2.x:menu#small":{
+  "vtex.menu@2.x:menu#smalls":{
       "children": [
           "menu-item#mixers",
           "menu-item#toasters",
@@ -92,7 +92,7 @@
             "orientation": "vertical"
         }
   },
-  "vtex.menu@2.x:menu#electronics":{
+  "vtex.menu@2.x:menu#electronicss":{
       "children": [
           "menu-item#cameras",
           "menu-item#laptops",

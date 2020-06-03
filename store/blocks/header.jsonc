@@ -76,19 +76,19 @@
     "login":{
     "props": {
         "showIconProfile": true,
-        "iconLabel": "Login"
+        "iconLabel": "Login"    
     }
     },
 
     "logo":{
     "props": {
-        "url": "https://appliancetheme.vteximg.com.br/assets/vtex.file-manager-graphql/images/flatflat___6081e50402943bcb11bc45a8e613aa72.png"
+        "url": "https://originalstore.vteximg.com.br/arquivos/logo.png"
     }
     },
     "rich-text#header": {
     "props": {
-        "text": "**Free Shipping on orders over $50**",
+        "text": "**Sites com Tecnologia IO apenas $20.000**",
         "textPosition": "CENTER"
     }
-    }
+}
 } 
